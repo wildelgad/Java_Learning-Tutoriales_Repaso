@@ -1,0 +1,3 @@
+Array con 30 ventas del mes y que diga cuáles y cuántas son mayores que $2000
+
+https://www.youtube.com/watch?v=AMV21d47xHs&list=PLDfQIFbmwhremI6UYsjY5jTmu1usrvTJW&index=1
